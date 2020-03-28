@@ -1,0 +1,21 @@
+main{
+	background:linear-gradient(rgba(0,0,50,.5),rgba(0,0,50,.5));
+	background:url(image.png);
+    background-size:cover;
+    background-position:center;
+}
+h1{
+	background-color:yellow;
+	border-width: 20px;
+	border-color:black;
+    padding :.1%;
+    text-align: center;
+    background:url(image.png) no-repeat center center fixed;
+	background-size:cover;
+	
+}
+head{
+	background:url(image.png) no-repeat center center fixed;
+	background-size:cover;
+
+}
